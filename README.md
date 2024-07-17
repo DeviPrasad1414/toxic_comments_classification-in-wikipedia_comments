@@ -6,4 +6,5 @@ When we coming to import the modules we have used pandas and numpy for the tabul
 we used the classifiers like LogisticRegression and MultinomialNb from Naive Bayes
 Its more similar to the sentimental analysis but in sentimental analysis we get the output as the sentiment or the feeling wihch resembles the particular sentence.
 But in this project the level of toxicity of the sentence which will more useful in the text classification and can aslo used in different social media application and for political issues.
+The dataset link is https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge
 # toxic_comments_classification-in-wikipedia_comments
